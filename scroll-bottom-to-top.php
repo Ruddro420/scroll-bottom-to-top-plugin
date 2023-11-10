@@ -16,4 +16,14 @@
  */
 
 
+// functions
+include_once "include/functions.php";
+// enqueue
+include_once "include/enqueue.php";
+// add menu
+include_once "include/admin_menu.php"
+
+
+
+
 ?>
