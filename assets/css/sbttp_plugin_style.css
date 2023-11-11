@@ -2,7 +2,7 @@
 #scrollUp {
     bottom: 20px;
     right: 20px;
-    background-color: #555;
+    background-color: red;
     color: #fff;
     font-size: 12px;
     font-family: sans-serif;
@@ -22,3 +22,4 @@
 #scrollUp:hover {
     background-color: #000;
 }
+

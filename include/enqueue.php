@@ -19,5 +19,3 @@ function active_scroll_script(){
 }
 add_action("wp_footer","active_scroll_script");
 
-?>
-
